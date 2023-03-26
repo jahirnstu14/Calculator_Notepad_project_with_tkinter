@@ -1,0 +1,2 @@
+('jahh', 'sefff', 'male', 'dfge', 'rete', 1)
+ 
